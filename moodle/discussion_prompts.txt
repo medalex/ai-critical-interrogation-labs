@@ -1,0 +1,5 @@
+1. Where did the AI produce incorrect or misleading output?
+2. What assumptions did the model appear to make?
+3. How could this error cause harm in a real-world context?
+4. Would you trust this system without human verification?
+5. Who is responsible when AI output is wrong?

@@ -1,0 +1,4 @@
+Artificial intelligence is increasingly used in healthcare for diagnostics,
+treatment planning, and administrative decision-making. While these systems
+can improve efficiency, they also introduce risks related to bias, data privacy,
+and over-reliance on automated recommendations.
